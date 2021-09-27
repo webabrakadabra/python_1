@@ -1,3 +1,4 @@
 calc_telegram/
 .idea/
 __pycache__/
+test/
